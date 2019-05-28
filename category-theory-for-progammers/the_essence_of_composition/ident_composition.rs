@@ -36,5 +36,3 @@ fn main() {
     let c = compose(first, second);
     let _: Baz = c(Foo {});
 }
-
-
